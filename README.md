@@ -19,3 +19,8 @@ hallo guys disini saya masih latihan mengenai program bahasa python, yaitu saya 
 -dan ini hasilnya
 ![Screenshot (33)](https://user-images.githubusercontent.com/115749975/198932904-51bc0a00-7431-45d6-a302-fcbdff1899da.png)
 
+5. membuat belah ketupat dengan format string
+![Screenshot (35)](https://user-images.githubusercontent.com/115749975/198935429-240aa2d9-ff61-4f3a-8ed3-34c908f79460.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/115749975/198935441-b5c134e2-76de-44ef-9b6f-857f5cb409b4.png)
+
+sekian dari saya TERIMAKASIH!!!
